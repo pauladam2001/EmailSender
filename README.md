@@ -19,4 +19,6 @@
 - Only for me, I can connect with Yahoo/Gmail, the passwords are stored in environment variables
 # How it works - Graphical UI
 - Sign in window: Start by logging in with your Yahoo or Gmail account (for Gmail: 'Manage your google account' -> 'Security' -> 'Less secure app access' -> Turn on; for Yahoo: Create a '1-time password' in 'Account info' -> 'Account security' and log in with that password)
-- Main window:
+- Main window: Introduce the name associated to the address of the receiver (if it is not in the database you need to introduce the email address and after you can save it in the database), the subject and the message and press 'Send email'. You have the option to speak and the computer will let you know if the email was sent.
+---
+# Demo
