@@ -24,5 +24,9 @@
 # Demo
 - Login Window (press 'Sign in' button or enter after you type your password in order to connect)
 - ![SignInWindow](https://user-images.githubusercontent.com/72084877/137708176-735117c0-851e-4682-a8d1-def1ab3a1c53.png) 
-- Main window
+- Main window (you can write or press 'Talk' button and you can speak; after you introduce the name, if the address is not in the database you will be able to introduce it. After you write the address press enter or 'Next' button in order to validate it and to have the possibility to introduce it in the database)
 - ![MainWindow](https://user-images.githubusercontent.com/72084877/137708340-cebdc63c-5d1d-4da8-b82a-bf6d44ce1136.png)
+- After you complete every field press 'Send email' and the application will let you know if your email was sent.
+- ![SendEmail](https://user-images.githubusercontent.com/72084877/137709595-442f3bca-de10-4f40-9e52-39d2e931879b.png)
+- Press 'Show contacts'button if you want to see addresses already in the database.
+- ![Addresses](https://user-images.githubusercontent.com/72084877/137709758-1e382351-af16-4e45-888e-db5742faef51.png)
